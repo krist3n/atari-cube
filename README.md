@@ -53,6 +53,4 @@ Lastly, we made them interact. We triggered cube rotations based on Hubie’s po
 
 ## Conclusion
 
-This remake taught us to think of display and action states as different entities, to hardcode when it would simplify our code, and how to look at games like a programmer. Most of our work didn’t stem from analyzing Video Cube’s original code, rather we took screenshots of the rotation animation to better understand it, and paid attention to Hubies behavior every frame. 
-
 With more time we would have smoothed out Hubie’s movement, somehow added shading and gap disappearance to the rotations (gaps didn’t look good without shading, which was very hard to approach in Tic80),  and added more unique level twists and scoring conventions. In the original, on certain levels you can press a button and Hubie will solve it for you in the fastest way. This was so daunting and impressive, that we knew attempting it could take possibly more time than everything else put together. While we did add sound effects, we also would have loved to add music, additional sprite work, and maybe in the future attempt a true 3D version.
